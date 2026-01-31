@@ -1,105 +1,27 @@
-HTML-CSS-JS Practice Tasks
+HTML-CSS-JS Practice Tasks ✨💻
 
-This repository contains 10 front-end practice tasks designed to improve your skills in HTML, CSS, and JavaScript.
-Each task focuses on real-world concepts like DOM manipulation, closures, hoisting, array/object handling, and responsive UI design.
+A collection of 10 front-end practice tasks to improve your skills in HTML, CSS, and JavaScript.
 
+📝 Tasks Overview
 
-Tasks Overview
-Task 1: Student List Using DOM Manipulation
+Student List – Create a dynamic student list with <ul> and <li> and style it using JS.
 
-Dynamically create a <ul> inside a <div> and add at least 3 <li> elements.
+Dynamic Heading – Add text, style, and alignment to a heading dynamically.
 
-Display student names and marks.
+Array Transformation – Square even numbers in an array, leave odd numbers unchanged.
 
-Change the background color of each list item using JavaScript.
+Shopping Cart Sorting – Sort items by price in ascending order.
 
+Filter Premium Users – Return users who are active and have premium membership.
 
+Hoisting & Scope – Predict outputs, explain hoisting, and fix errors in JS variables and functions.
 
-Task 2: Dynamic Heading Manipulation
+Counter with Closure – Implement a private counter that increments on each function call.
 
-Add text dynamically to an <h1> element.
+Function Hoisting – Predict outputs for function declarations vs expressions.
 
-Change text color, background, alignment, and add a CSS class.
+Product Card Layout – Recreate a product card design using HTML & CSS.
 
-Display a welcome message on page load.
+User Profile Card – Build a centered, responsive profile card with image, info, and action button.
 
-
-
-
-Task 3: Array Number Transformation
-
-Iterate through an array of integers.
-
-Square even numbers while keeping odd numbers unchanged.
-
-
-
-
-Task 4: Shopping Cart Sorting
-
-Sort an array of objects representing shopping items by itemPrice in ascending order.
-
-
-
-
-Task 5: Filter Premium Users
-
-Process an array of user objects.
-
-Return users who are active and have a premium membership.
-
-
-
-
-Task 6: JavaScript Hoisting & Scope
-
-Predict the output of code involving var, let, and function scope.
-
-Explain why certain outputs occur and fix errors to make all logs valid.
-
-
-
-
-Task 7: Counter Using Closure
-
-Create a counter function using closures.
-
-Increment value on each call while keeping it private and persistent.
-
-
-
-
-Task 8: Function Hoisting & Expressions
-
-Predict and explain outputs for function declarations vs. function expressions.
-
-
-
-
-Task 9: Product Card Layout
-
-Recreate a product card design using HTML and CSS.
-
-Focus on proper alignment, spacing, and styling.
-
-
-
-
-
-Task 10: User Profile Card
-
-Build a responsive profile card centered on the page.
-
-Include profile image, name, bio, info sections, and action button.
-
-Add hover effects and ensure layout adapts to smaller screens.
-
-Key Learning Outcomes
-
-DOM manipulation using JavaScript
-
-Handling arrays and objects
-
-Understanding closures, hoisting, and variable scope
-
-Building responsive and interactive UI components
+🎯 Learn: DOM manipulation, arrays & objects, closures, hoisting, and responsive UI design.
