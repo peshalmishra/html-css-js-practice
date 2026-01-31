@@ -4,7 +4,7 @@ A collection of 10 front-end practice tasks to improve your skills in HTML, CSS,
 
 📝 Tasks Overview
 
-Student List – Create a dynamic student list with '<ul>' and '<li>' and style it using JS.
+Student List – Create a dynamic student list with ul and li and style it using JS.
 
 Dynamic Heading – Add text, style, and alignment to a heading dynamically.
 
