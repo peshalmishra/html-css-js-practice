@@ -29,3 +29,5 @@ User Profile Card – Build a centered, responsive profile card with image, info
 All the tasks are included in the zip file, along with screenshots of the respective task outcomes. Download it on the local storage and enjoy the codes.
 
 Stay Updated for further changes .
+
+Drop a star if you found it useful.
